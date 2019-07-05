@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<info>
+    <id>fajotime_libreofficeviewer</id>
+    <name>Fajotime LibreOffice Embeded Viewer</name>
+    <summary>A LibreOffice documents viewer for Nextcloud</summary>
+    <description><![CDATA[This application allow to view LibreOffice document without any dependency to a server ! Document are rendered directly by the browser ! It's based on [ViewerJS](https://viewerjs.org)]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="johan.piquet@gmail.com" homepage="https://www.fajotime.fr">Johan PIQUET</author>
+    <namespace>Fajotime_LibreOfficeViewer</namespace>
+    <category>office</category>
+    <bugs>https://www.fajotime.fr/bugtracker/fajotime_libreofficeviewer</bugs>
+    <dependencies>
+        <nextcloud min-version="15" max-version="16"/>
+    </dependencies>
+</info>
